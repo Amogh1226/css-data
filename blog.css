@@ -1,0 +1,11 @@
+body{
+border-color: blue;
+border-width: thick;
+border-style: solid;
+}
+h1{
+  color: red;
+}
+h2{
+  color: orange;
+}

@@ -1,0 +1,29 @@
+h1{
+  color: purple;
+  border-color: pink;
+  border-width: thick;
+  border-style: solid;
+}
+body{
+  background: blue;
+}
+p{
+  color: yellow;
+}
+h2{
+  color: rgb(91, 235, 52);
+}
+ul{
+  color: rgb(52, 235, 214);
+}
+h3{
+  color: orange;
+}
+img{
+  border-color: red;
+  border-width: 20px;
+  border-style: groove;
+}
+body{
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ_3r3G8KTdMEtHAuF9VyLBoqzkPhobB7bgg&usqp=CAU)
+}
